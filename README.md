@@ -46,3 +46,12 @@
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Spotify](https://developer.spotify.com/documentation/web-api) | Spotify Web API for music data | OAuth | Yes | Yes |
+
+---
+
+## License
+
+Distributed under the [MIT License][license].
+
+
+[license]: LICENSE
